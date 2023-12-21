@@ -1,6 +1,6 @@
 # Overview
 
-At first, this project is created for personal learning purposes; with it, I try to recreate some of my social science research which I have opportunities to touch on in my university years. But after that, I've realized there are so much potentially interesting datasets online for me to discovery, I convert this repo to a playground for me to hang out & have fun with any dataset I found interested in. 
+At first, this project is created for personal learning purposes; with it, I try to recreate some of my social science research which I have opportunities to touch on in my university years. But after that, I've realized there are so much potentially interesting datasets online for me to discovery, I convert this repo to a playground for me to hang out & have fun with any dataset I found interested in.
 
 Initially, this project will focus on researching 3 main data sets:
 
