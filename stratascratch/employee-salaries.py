@@ -1,6 +1,6 @@
 import pandas as pd 
 
-""" Question 1: 
+""" Question 1: Eligible Employees 
 IBM wants to reward employees who meet certain criteria. However, to ensure fairness, the following conditions must be met:
 
 
@@ -12,6 +12,7 @@ IBM wants to reward employees who meet certain criteria. However, to ensure fair
 The output should include the Employee ID, Salary, and Department of the employees meeting the criteria.
 """
 
+#  ___first try. this is really hard w/o groupby. I'm so stupid__
 """___first try. this is really hard w/o groupby. I'm so stupid__
 emp_sal = pd.read_excel("data/raw/employee-salaries.xlsx")
 
@@ -41,8 +42,6 @@ for i in output.department.unique():
 indices
 output.loc[indices, :]
 """
-
-
 
 # this is the solution BingAI gave me. this is so much easier. now I know where I miss. 
 emp_sal = pd.read_excel("data/raw/employee-salaries.xlsx")

@@ -34,3 +34,7 @@ pd.pivot_table(
     values='amount_spent',
     aggfunc='mean'
 ).style.bar()
+
+
+# testing live streaming on youtube for the first time. I dont know how to live stream properly yet. 
+# hope that I will do better in the future
