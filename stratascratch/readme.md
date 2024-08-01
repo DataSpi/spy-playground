@@ -1,0 +1,1 @@
+This project is created to practice with coding exercise on the website STRATASCRATCH. 
